@@ -1,5 +1,5 @@
 ## Project:
-[lem-in](https://github.com/Dias1c/lem-in)
+[ascii-art-web](https://github.com/Dias1c/ascii-art-web)
 
 ## Authors:
 - [Dias1c](https://github.com/Dias1c)
